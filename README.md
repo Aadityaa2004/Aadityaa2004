@@ -76,8 +76,8 @@ I’m actively seeking opportunities to collaborate on challenging projects and 
 
 ## 📊 GitHub Stats
 
-![Aadityaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AadityaaRS&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaaRS&layout=compact&theme=radical)
+![Aadityaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadityaa2004&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityaa2004&layout=compact&theme=radical)
 
 ---
 
