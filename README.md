@@ -74,13 +74,6 @@ I’m actively seeking opportunities to collaborate on challenging projects and 
 
 ---
 
-## 📊 GitHub Stats
-
-![Aadityaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadityaa2004&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityaa2004&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
 Feel free to connect with me at [s.aadityaa.rengaraj@gmail.com](mailto:s.aadityaa.rengaraj@gmail.com) to discuss technology, innovation, and exciting opportunities!
