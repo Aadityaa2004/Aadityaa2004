@@ -17,6 +17,8 @@ I'm a dedicated junior at the University of Massachusetts Amherst, driven by a p
 
 - **Software Developer at BUILD UMass** (Ongoing)
 
+- **Software Engineering Intern at Honeywell** (Upcoming Summer 2025)
+
 ---
 
 ## ⚙️ Technical Skills
