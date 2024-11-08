@@ -91,8 +91,6 @@ I'm a dedicated junior at the University of Massachusetts Amherst, driven by a p
 
 ---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityaa2004&show_icons=true&hide_border=true&layout=compact&langs_count=10" />
-
 ## 🚀 Career Aspirations
 
 **Short-term:** Deepen my expertise in software development and data engineering, contributing to projects that push the boundaries of technology.
