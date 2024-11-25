@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi!+I'm+Aadityaa!; )](https://git.io/typing-svg)
 
- https://aadityaa-rengaraj-sethuraman.vercel.app/ 
+ https://s-aadityaa-rengaraj.com/ 
 
 **Computer Engineering Candidate | Entrepreneur | Machine Learning & AI Enthusiast | Full Stack Developer**
 
