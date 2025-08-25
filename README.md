@@ -5,19 +5,21 @@
 
 **Computer Engineering Candidate | Entrepreneur | Machine Learning & AI Enthusiast | Full Stack Developer**
 
-I'm a dedicated junior at the University of Massachusetts Amherst, driven by a passion for leveraging cutting-edge technologies to solve complex problems. My expertise spans machine learning, data science, predictive analysis, and full-stack development, with a proven track record of implementing innovative solutions in real-world scenarios.
+Computer Engineering senior at UMass Amherst with hands-on experience in AI/ML technologies, software development, data analysis and
+systems engineering. Adept at leading projects, solving complex problems, and collaborating across diverse teams, with proven strengths in
+communication, critical thinking, and delivering impactful solutions.
 
 ---
 
 ## 👨‍💻 Professional Experience
+
+- **Software Engineering Intern at Honeywell** 
 
 - **Image Analytics Intern at Alstom**  
   
 - **Full Stack Developer at Arty Facets**  
 
 - **Software Developer at BUILD UMass** (Ongoing)
-
-- **Software Engineering Intern at Honeywell** (Upcoming Summer 2025)
 
 ---
 
